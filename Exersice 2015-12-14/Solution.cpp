@@ -187,7 +187,7 @@ int main()
 //	return 0;
 //}
 
-//Task 5-page 261 task 55-soritrane na chetnite nizhodqshto na nechetnite vuzhodqshto
+//Task 5
 //const int MAX_SIZE = 20;
 //void sortAsc(int arr[], int n){//sortirane vuzhodqshto
 //	int i, j, minI;
@@ -257,7 +257,7 @@ int main()
 //	return 0;
 //}
 
-//Task 6 -page 164 task 47-da se nameri vsqko k za koeto e izpulneno che k-tiq red na matrica e raven na k-tiq stulb
+//Task 6
 //const int MAX_SIZE = 20;
 //int main(){
 //	//vuvejdane na n
